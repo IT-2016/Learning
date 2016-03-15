@@ -2,6 +2,7 @@
 
 ##Github
 * [Apprendre la syntaxe du Markdown](https://guides.github.com/features/mastering-markdown/)
+* [GitKraken](https://www.grafikart.fr/formations/git/gitkraken) 
 
 ##HTML-CSS
 * [Un peu d'inspiration](http://tympanus.net/codrops/)
